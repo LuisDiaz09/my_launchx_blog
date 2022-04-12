@@ -1,8 +1,8 @@
 ---
-title: 'About me'
+title: 'The LUAN Story'
 menu:
   main:
-    name: "The LUAN Story"
+    name: "AboutMe"
 ---
 
 ## ¿Quién Soy?
