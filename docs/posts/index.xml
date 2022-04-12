@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://luisdiaz09.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://luisdiaz09.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://luisdiaz09.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Este post se actualizara hasta que terminemos la misión.
+Voy a empezar este post agradeciendo a MicrosoftMx y a toda la comunidad de innovacción, ya que sin ellos esto no sería posible, un especial agradecimiento a la MC Fer, MC Juan y al gran MC Carlo.
+a continuación voy a enlistar lo que más me gusto de cada una de las misiones.
+Onboarding:
+ Python, gracias MC Fer, por todo el material y las horas prestadas para el desarrollo de cada una de las prácticas, me sirvieron mucho para ver el otro lado de la programación.</description>
+    </item>
+    
+    <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://luisdiaz09.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
