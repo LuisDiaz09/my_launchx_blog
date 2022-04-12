@@ -2,20 +2,18 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "The LUAN Story"
 ---
 
-## Who am I
+## ¿Quién Soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Bienvenidos a mi blog, aquí les compartiré quién es y qué hace Luis Ángel Díaz Ruiz 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Luis Ángel Díaz Ruiz, soy de la ciudad de Puebla y tengo 23 años de edad
+> Actualmente me encuentro en los ultimos semestres de la carrera, 'Licenciatura
+> en Ciencias de la Computación' de la BUAP.
+> Tengo una sincera pasión por la tecnología web y por el fútbol, sin olvidar
+> los videojuegos.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+
 
